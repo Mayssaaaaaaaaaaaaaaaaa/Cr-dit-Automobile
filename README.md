@@ -1,4 +1,4 @@
-# Credit Automobile
+# Crédit Automobile
 Cycle Séquentiel V, Squash TM et Mantis BT
 ![image](https://github.com/Mayssaaaaaaaaaaaaaaaaa/Cr-dit-Automobile/assets/160138222/d4f49611-f3c9-4b51-9a0d-c55e5b4aaed9)
 
